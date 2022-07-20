@@ -1,9 +1,14 @@
-/*
- * calculator_main.c
+/******************************************************************************
  *
- *  Created on: Jul 19, 2022
- *      Author: Mahmoud
- */
+ * [File Name]: calculator_main.c
+ *
+ * [Description]: Source file for Calculator Application
+ *
+ * [Micro-controller]: Atmega16
+ *
+ * [Author]: Mahmoud Khaled
+ *
+*******************************************************************************/
 
 
 #include "keypad.h"
